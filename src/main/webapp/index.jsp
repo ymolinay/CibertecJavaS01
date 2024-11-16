@@ -6,5 +6,12 @@
 </head>
 <body>
     <h1>¡Hola Mundo desde JSP con GIT!</h1>
+
+    <ul>
+        <li> <a href="ejercicio01.jsp"> Ejercicio 01 </a></li>
+        <li> <a href="ejercicio02.jsp"> Ejercicio 02 </a></li>
+        <li> <a href="ejercicio03.jsp"> Ejercicio 03 </a></li>
+    </ul>
+
 </body>
 </html>
